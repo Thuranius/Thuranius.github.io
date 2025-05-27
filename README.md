@@ -1,1 +1,1 @@
-# Thuranius.github.io
+This website is for User Experience Class
